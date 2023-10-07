@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: qubes-docs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-29 01:28+0200\n"
-"PO-Revision-Date: 2023-10-07 09:20+0000\n"
+"PO-Revision-Date: 2023-10-07 10:33+0000\n"
 "Last-Translator: bi3n3k3rn <bi3n3k3rn@protonmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/qubes-github-test/"
 "1-doc-index/de/>\n"
@@ -52,10 +52,12 @@ msgstr ":doc:`Loslegen </introduction/getting-started>`"
 #: ../../../_doc/index.rst:12 4ed3f64ac46141a39a22abd32142c28d
 msgid ":doc:`Frequently asked questions (FAQ) </introduction/faq>`"
 msgstr ""
+":doc:`Häufig gestellten Fragen (häufig gestellte Fragen) </introduction/faq>`"
 
 #: ../../../_doc/index.rst:13 a98ad840396a4daca0ab10f96a16c4e3
+#, fuzzy
 msgid ":doc:`Issue tracking </introduction/issue-tracking>`"
-msgstr ""
+msgstr ":doc:`Issue tracking </introduction/issuetracking>`"
 
 #: ../../../_doc/index.rst:14 f488530607d04b4cb6ee56b7cdc6d90f
 msgid ":doc:`Help, support, mailing lists, and forum </introduction/support>`"
