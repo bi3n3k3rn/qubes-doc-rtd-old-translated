@@ -16,28 +16,30 @@
 # Ettore Atalan <atalanttore@googlemail.com>, 2022
 # m, 2022
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: qubes-docs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-29 01:28+0200\n"
-"PO-Revision-Date: 2022-08-29 00:26+0000\n"
-"Last-Translator: m, 2022\n"
-"Language-Team: German (https://www.transifex.com/otf/teams/56717/de/)\n"
+"PO-Revision-Date: 2023-10-07 09:20+0000\n"
+"Last-Translator: bi3n3k3rn <bi3n3k3rn@protonmail.com>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/qubes-github-test/"
+"1-doc-index/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #: ../../../_doc/index.rst:3 32e8de04c3534a13a5a6435eb0dde323
 msgid "Documentation"
 msgstr "Dokumentation"
 
 #: ../../../_doc/index.rst:6 fea792cacc0a446e8142918193d8b5e0
+#, fuzzy
 msgid "Table of contents"
-msgstr ""
+msgstr "Inhaltsverzeichnis"
 
 #: ../../../_doc/index.rst:9 21cb90c94d4c4222b168fba7e1883dd4
 msgid "Introduction"
@@ -45,7 +47,7 @@ msgstr "Einführung"
 
 #: ../../../_doc/index.rst:11 a6732c54acfe4f3bbd9352c166d7a1d9
 msgid ":doc:`Getting started </introduction/getting-started>`"
-msgstr ""
+msgstr ":doc:`Loslegen </introduction/getting-started>`"
 
 #: ../../../_doc/index.rst:12 4ed3f64ac46141a39a22abd32142c28d
 msgid ":doc:`Frequently asked questions (FAQ) </introduction/faq>`"
