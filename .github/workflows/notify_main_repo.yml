@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        repo: ["mmm-mmm-mmz/qubes-doc-rtd-old"]
+        repo: ["bi3n3kern/qubes-doc-rtd-old"]
     steps:
       - name: Push to repo
         uses: peter-evans/repository-dispatch@v1
